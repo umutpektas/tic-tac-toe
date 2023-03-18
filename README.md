@@ -19,3 +19,9 @@ module.exports = {
   },
   plugins: [],
 }
+
+create a main.css file in the src and past these in
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
