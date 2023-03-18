@@ -27,3 +27,8 @@ create a main.css file in the src and past these in
 @tailwind utilities;
 
 then import the main.css into main.js
+
+after that import google fonts into the index.html file
+
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons+Outlined"
+      rel="stylesheet">
