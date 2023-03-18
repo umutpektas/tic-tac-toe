@@ -32,3 +32,5 @@ after that import google fonts into the index.html file
 
 <link href="https://fonts.googleapis.com/css2?family=Material+Icons+Outlined"
       rel="stylesheet">
+      
+after that delete everything inside the src folder and put the other files in      
